@@ -1,3 +1,3 @@
 # Processetti
 
-Notebooks d'analisi
+Notebooks d'analisi e visualizzazione
