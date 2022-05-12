@@ -135,5 +135,10 @@ data/*.json
 geovistory_query_exports/*.json
 geovistory_query_exports/*.csv
 
+Processetti/geovistory_query_exports/*.json
+Processetti/geovistory_query_exports/*.csv
+
+Processetti\geovistory_query_exports\*.json
+
 # .ini
 *.ini
