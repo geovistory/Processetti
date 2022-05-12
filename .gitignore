@@ -131,8 +131,7 @@ dmypy.json
 
 # Data
 data/*.json
-
-geovistory_query_exports/*.json
+Processetti\geovistory_query_exports/*.json
 
 # .ini
 *.ini
